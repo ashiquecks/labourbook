@@ -1,7 +1,7 @@
 # Labour Book App
 
 
-Try to create a Recepie App, Which includes almost all impotant pages like Home page, recipe bundel page then list of recipes also profile page and many more.
+It's a Labour Book App, Which includes almost all important pages like Home page, Login Page then list of Employees also Labour Register page and many more.
 
 
 ![Preview](screen.gif)
